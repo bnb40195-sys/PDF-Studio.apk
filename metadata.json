@@ -1,0 +1,6 @@
+{
+  "name": "DocuScan & PDF Studio | ماسح ومحرر الـ PDF الشامل",
+  "description": "تطبيق ماسح ضوئي شامل واستوديو PDF متكامل لتحويل الصور والباركود والشهادات مع التوقيع الإلكتروني وتغيير الخلفيات بدون إنترنت 100%.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

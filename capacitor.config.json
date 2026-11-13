@@ -1,0 +1,12 @@
+{
+  "appId": "com.docuscan.pdfstudio",
+  "appName": "DocuScan & PDF Studio",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
